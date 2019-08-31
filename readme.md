@@ -1,4 +1,5 @@
 # Modernizr [![Build Status](https://api.travis-ci.org/Modernizr/Modernizr.svg?branch=master)](https://travis-ci.org/Modernizr/Modernizr) [![Inline docs](https://inch-ci.org/github/Modernizr/Modernizr.svg?branch=master)](https://inch-ci.org/github/Modernizr/Modernizr)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FModernizr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FModernizr?ref=badge_shield)
 
 ##### Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 
@@ -106,3 +107,6 @@ The second parameter is a function invoked on task completion.
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FModernizr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FModernizr?ref=badge_large)
